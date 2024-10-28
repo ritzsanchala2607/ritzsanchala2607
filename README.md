@@ -1,4 +1,5 @@
-I have expertise in web and software development, dedicated to delivering optimized solutions. Seeking a dynamic role in the software domain within a friendly and collaborative work environment.
+I have expertise in web and software development, dedicated to delivering optimized solutions. 
+Seeking a dynamic role in the software domain within a friendly and collaborative work environment.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sanchala-220a97240/) 
